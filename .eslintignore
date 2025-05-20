@@ -1,0 +1,7 @@
+**/*.gen.ts
+**/*.gen.tsx
+**/*.gen.jsx
+**/*.gen.js
+**/*.gen.json
+**/*.gen.css
+**/*.gen.scss
